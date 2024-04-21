@@ -1,0 +1,16 @@
+﻿codeenhancement.obj : error LNK2019: unresolved external symbol glfwInit referenced in function main
+codeenhancement.obj : error LNK2019: unresolved external symbol glfwTerminate referenced in function main
+codeenhancement.obj : error LNK2019: unresolved external symbol glfwWindowHint referenced in function main
+codeenhancement.obj : error LNK2019: unresolved external symbol glfwCreateWindow referenced in function main
+codeenhancement.obj : error LNK2019: unresolved external symbol glfwDestroyWindow referenced in function main
+codeenhancement.obj : error LNK2019: unresolved external symbol glfwWindowShouldClose referenced in function main
+codeenhancement.obj : error LNK2019: unresolved external symbol glfwSetWindowShouldClose referenced in function "void __cdecl processInput(struct GLFWwindow *)" (?processInput@@YAXPEAUGLFWwindow@@@Z)
+codeenhancement.obj : error LNK2019: unresolved external symbol glfwGetFramebufferSize referenced in function main
+codeenhancement.obj : error LNK2019: unresolved external symbol glfwPollEvents referenced in function main
+codeenhancement.obj : error LNK2019: unresolved external symbol glfwGetKey referenced in function "void __cdecl processInput(struct GLFWwindow *)" (?processInput@@YAXPEAUGLFWwindow@@@Z)
+codeenhancement.obj : error LNK2019: unresolved external symbol glfwMakeContextCurrent referenced in function main
+codeenhancement.obj : error LNK2019: unresolved external symbol glfwSwapBuffers referenced in function main
+codeenhancement.obj : error LNK2019: unresolved external symbol glfwSwapInterval referenced in function main
+C:\OPENGL\GLFW\lib-vc2019\glfw3.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\OPENGL\GLEW\LIB\Release\Win32\glew32.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\Users\Daniel Lawrence\OneDrive\Desktop\cs330\Code Enhancement\x64\Debug\Code Enhancement.exe : fatal error LNK1120: 13 unresolved externals

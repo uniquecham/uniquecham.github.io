@@ -1,0 +1,68 @@
+﻿  original_brickgame.cpp
+C:\Users\Daniel Lawrence\OneDrive\Desktop\cs330\Code Enhancement\linmath.h(64,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'original_brickgame.cpp')
+  
+C:\Users\Daniel Lawrence\OneDrive\Desktop\cs330\Code Enhancement\linmath.h(65,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'original_brickgame.cpp')
+  
+C:\Users\Daniel Lawrence\OneDrive\Desktop\cs330\Code Enhancement\linmath.h(66,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'original_brickgame.cpp')
+  
+C:\Users\Daniel Lawrence\OneDrive\Desktop\cs330\Code Enhancement\linmath.h(344,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'original_brickgame.cpp')
+  
+C:\Users\Daniel Lawrence\OneDrive\Desktop\cs330\Code Enhancement\linmath.h(597,18): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'original_brickgame.cpp')
+  
+C:\Users\Daniel Lawrence\OneDrive\Desktop\cs330\Code Enhancement\linmath.h(604,18): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'original_brickgame.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+  (compiling source file 'original_brickgame.cpp')
+  C:\OpenGL\GLFW\include\GLFW\glfw3.h(123,1):
+  see previous definition of 'APIENTRY'
+  
+C:\Users\Daniel Lawrence\OneDrive\Desktop\cs330\Code Enhancement\original_brickgame.cpp(21,31): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Daniel Lawrence\OneDrive\Desktop\cs330\Code Enhancement\original_brickgame.cpp(74,16): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Daniel Lawrence\OneDrive\Desktop\cs330\Code Enhancement\original_brickgame.cpp(79,7): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Daniel Lawrence\OneDrive\Desktop\cs330\Code Enhancement\original_brickgame.cpp(80,7): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Daniel Lawrence\OneDrive\Desktop\cs330\Code Enhancement\original_brickgame.cpp(81,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Daniel Lawrence\OneDrive\Desktop\cs330\Code Enhancement\original_brickgame.cpp(96,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Daniel Lawrence\OneDrive\Desktop\cs330\Code Enhancement\original_brickgame.cpp(97,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Daniel Lawrence\OneDrive\Desktop\cs330\Code Enhancement\original_brickgame.cpp(184,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Daniel Lawrence\OneDrive\Desktop\cs330\Code Enhancement\original_brickgame.cpp(199,37): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Daniel Lawrence\OneDrive\Desktop\cs330\Code Enhancement\original_brickgame.cpp(199,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Daniel Lawrence\OneDrive\Desktop\cs330\Code Enhancement\original_brickgame.cpp(200,40): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Daniel Lawrence\OneDrive\Desktop\cs330\Code Enhancement\original_brickgame.cpp(200,35): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Daniel Lawrence\OneDrive\Desktop\cs330\Code Enhancement\original_brickgame.cpp(200,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Daniel Lawrence\OneDrive\Desktop\cs330\Code Enhancement\original_brickgame.cpp(201,40): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Daniel Lawrence\OneDrive\Desktop\cs330\Code Enhancement\original_brickgame.cpp(201,35): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Daniel Lawrence\OneDrive\Desktop\cs330\Code Enhancement\original_brickgame.cpp(201,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Daniel Lawrence\OneDrive\Desktop\cs330\Code Enhancement\original_brickgame.cpp(202,39): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Daniel Lawrence\OneDrive\Desktop\cs330\Code Enhancement\original_brickgame.cpp(203,37): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Daniel Lawrence\OneDrive\Desktop\cs330\Code Enhancement\original_brickgame.cpp(203,32): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Daniel Lawrence\OneDrive\Desktop\cs330\Code Enhancement\original_brickgame.cpp(204,39): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Daniel Lawrence\OneDrive\Desktop\cs330\Code Enhancement\original_brickgame.cpp(204,34): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Daniel Lawrence\OneDrive\Desktop\cs330\Code Enhancement\original_brickgame.cpp(205,37): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Daniel Lawrence\OneDrive\Desktop\cs330\Code Enhancement\original_brickgame.cpp(205,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Daniel Lawrence\OneDrive\Desktop\cs330\Code Enhancement\original_brickgame.cpp(206,39): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Daniel Lawrence\OneDrive\Desktop\cs330\Code Enhancement\original_brickgame.cpp(206,34): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Daniel Lawrence\OneDrive\Desktop\cs330\Code Enhancement\original_brickgame.cpp(206,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Daniel Lawrence\OneDrive\Desktop\cs330\Code Enhancement\original_brickgame.cpp(207,39): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Daniel Lawrence\OneDrive\Desktop\cs330\Code Enhancement\original_brickgame.cpp(207,34): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Daniel Lawrence\OneDrive\Desktop\cs330\Code Enhancement\original_brickgame.cpp(207,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Daniel Lawrence\OneDrive\Desktop\cs330\Code Enhancement\original_brickgame.cpp(208,40): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Daniel Lawrence\OneDrive\Desktop\cs330\Code Enhancement\original_brickgame.cpp(208,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Daniel Lawrence\OneDrive\Desktop\cs330\Code Enhancement\original_brickgame.cpp(209,38): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Daniel Lawrence\OneDrive\Desktop\cs330\Code Enhancement\original_brickgame.cpp(209,33): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Daniel Lawrence\OneDrive\Desktop\cs330\Code Enhancement\original_brickgame.cpp(209,28): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Daniel Lawrence\OneDrive\Desktop\cs330\Code Enhancement\original_brickgame.cpp(210,40): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Daniel Lawrence\OneDrive\Desktop\cs330\Code Enhancement\original_brickgame.cpp(210,35): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Daniel Lawrence\OneDrive\Desktop\cs330\Code Enhancement\original_brickgame.cpp(210,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Daniel Lawrence\OneDrive\Desktop\cs330\Code Enhancement\original_brickgame.cpp(224,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Daniel Lawrence\OneDrive\Desktop\cs330\Code Enhancement\original_brickgame.cpp(261,2): warning C4551: function call missing argument list
+C:\Users\Daniel Lawrence\OneDrive\Desktop\cs330\Code Enhancement\original_brickgame.cpp(277,37): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Daniel Lawrence\OneDrive\Desktop\cs330\Code Enhancement\original_brickgame.cpp(277,34): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Daniel Lawrence\OneDrive\Desktop\cs330\Code Enhancement\original_brickgame.cpp(277,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Daniel Lawrence\OneDrive\Desktop\cs330\Code Enhancement\original_brickgame.cpp(277,25): warning C4305: 'argument': truncation from 'double' to 'float'
+  Code Enhancement.vcxproj -> C:\Users\Daniel Lawrence\OneDrive\Desktop\cs330\Code Enhancement\Debug\Code Enhancement.exe
