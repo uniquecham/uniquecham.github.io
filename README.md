@@ -52,13 +52,24 @@ I perform a code review for artifact one (Software Enginerring & Design). In thi
 
 [Software Design and Engineering Narrative](ArtifactOne3-2MilestoneTwoCS499SoftwareandDesign.pdf)
 
-## Software Design and Engineering Enhancement Codes
 
 Artifact One was an enhancement on a basic brick game created in CS-330, where I added a paddled and 3 lives. When the ball went under the paddle three times the game was over. If the ball hit the paddle the the debug error appeared and you will have to hit escape on the keyboard to exit out the game.
+
+## Software Design and Engineering Enhancement Codes
+
+### Code Enhancement
+
+- [original_brickgame.cpp](https://uniquecham.github.io/Software%20Engineering%20and%20Design/Code%20Enhancement/original_brickgame.cpp)
+
+- [Enhanced_brickgame.cpp](https://uniquecham.github.io/Software%20Engineering%20and%20Design/Code%20Enhancement/Enhanced_brickgame.cpp)
+
 
 ### Algorithms and Data Structure Enhancement Narrative
 
 [Algorithms and Data Structure Artifact](Artifact2CS499AlgorithmsandDataStructure.pdf)
+
+Artifact 2_CS 499 4-2 Milestone Three_ Enhancement Two_ Algorithms and Data Structure
+This is a demostration how I enhanced the origial artifact which was a solid red 3D stationary pyrmid and made it rotate and show different colors on each side using OpenGl and C++. 
 
 ## Algorithm and Data Structure Codes
 
@@ -66,17 +77,15 @@ Artifact One was an enhancement on a basic brick game created in CS-330, where I
 
 - [Enhancement_artifact_pyramid_CS499 (1).cpp](https://raw.githubusercontent.com/uniquecham/uniquecham.github.io/main/Algorithm%20and%20Data%20Structure/Enhancement_artifact_pyramid_CS499%20(1).cpp)
 
-
-
 	
-Artifact 2_CS 499 4-2 Milestone Three_ Enhancement Two_ Algorithms and Data Structure
-This is a demostration how I enhanced the origial artifact which was a solid red 3D stationary pyrmid and made it rotate and show different colors on each side using OpenGl and C++. 
+
 
 ### Databases Enhancement
 
 [MongoDB Database Milestone](MongoDBDatabaseMilestoneCS499UniqueChambers.pdf)
 
 This artifact demonstrated my skills and abilities to display how to use  CRUD (Create, Read, Update, Delete) in MongoDB Compass. It will display how a record was created in the database "AAC", in the "animal" collection. The record was for a male dog name "Ace" that was black and white. The record was querried and located. It was updated to change his birthday, the the record was deleted. 
+
 
 
 ## My GitHub Pages Website
