@@ -50,7 +50,7 @@ I perform a code review for artifact one (Software Enginerring & Design). In thi
 
 ### Software Design and Engineering Enhancement
 
-[Software Design and Engineering Narrative](Artifact%20One_3-2%20Milestone%20Two_CS499.pdf "Software Design and Engineering - Brick Game")
+[Software Design and Engineering Narrative](ArtifactOne_3-2MilestoneTwo_CS499.pdf "Software Design and Engineering - Brick Game")
 
 
 Artifact One was an enhancement on a basic brick game created in CS-330, where I added a paddled and 3 lives. When the ball went under the paddle three times the game was over. If the ball hit the paddle the the debug error appeared and you will have to hit escape on the keyboard to exit out the game.
