@@ -50,13 +50,14 @@ I perform a code review for artifact one (Software Enginerring & Design). In thi
 
 ### Software Design and Engineering Enhancement
 
-[Software Design and Engineering Narrative](Artifact One_3-2 Milestone Two_CS499.docx "Software Design and Engineering - Brick Game")
+[Software Design and Engineering Narrative](Artifact%20One_3-2%20Milestone%20Two_CS499.pdf "Software Design and Engineering - Brick Game")
+
 
 Artifact One was an enhancement on a basic brick game created in CS-330, where I added a paddled and 3 lives. When the ball went under the paddle three times the game was over. If the ball hit the paddle the the debug error appeared and you will have to hit escape on the keyboard to exit out the game.
 
 ### Algorithms and Data Structure Enhancement
 
-[Algorithms and Data Structure Narrative](Revised 3-2 Milestone Two Enhancement One (1).pdf "Algorithms and Data Structure - Pyramid")
+[Algorithms and Data Structure Narrative](Revised%203-2%20Milestone%20Two%20Enhancement%20One%20(1).pdf "Algorithms and Data Structure - Pyramid")
 	
 Artifact 2_CS 499 4-2 Milestone Three_ Enhancement Two_ Algorithms and Data Structure
 This is a demostration how I enhanced the origial artifact which was a solid red 3D stationary pyrmid and made it rotate and show different colors on each side using OpenGl and C++. 
