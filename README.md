@@ -48,16 +48,25 @@ I perform a code review for artifact one (Software Enginerring & Design). In thi
 * Code Analysis: Adding a Paddle to the brick game gives the user an option to use besides just the ball shooting from everywhere to destroy the bricks. Adding lives keeps track of the lives remaining instead of just hitting the escape key to finish the game. 
 * Enhancements: Step by step of planned enhancements to improve the user experience and gameplay of the brick game.
 
-### Software Design and Engineering Enhancement
+### Software Design and Engineering Enhancement Narrative
 
 [Software Design and Engineering Narrative](ArtifactOne3-2MilestoneTwoCS499SoftwareandDesign.pdf)
 
+## Software Design and Engineering Enhancement Codes
 
 Artifact One was an enhancement on a basic brick game created in CS-330, where I added a paddled and 3 lives. When the ball went under the paddle three times the game was over. If the ball hit the paddle the the debug error appeared and you will have to hit escape on the keyboard to exit out the game.
 
-### Algorithms and Data Structure Enhancement
+### Algorithms and Data Structure Enhancement Narrative
 
 [Algorithms and Data Structure Artifact](Artifact2CS499AlgorithmsandDataStructure.pdf)
+
+## Algorithm and Data Structure Codes
+
+- [Original_artifact_pyramid_CS499.cpp](https://raw.githubusercontent.com/uniquecham/uniquecham.github.io/main/Algorithm%20and%20Data%20Structure/Original_artifact_pyramid_CS499.cpp)
+
+- [Enhancement_artifact_pyramid_CS499 (1).cpp](https://raw.githubusercontent.com/uniquecham/uniquecham.github.io/main/Algorithm%20and%20Data%20Structure/Enhancement_artifact_pyramid_CS499%20(1).cpp)
+
+
 
 	
 Artifact 2_CS 499 4-2 Milestone Three_ Enhancement Two_ Algorithms and Data Structure
@@ -68,6 +77,12 @@ This is a demostration how I enhanced the origial artifact which was a solid red
 [MongoDB Database Milestone](MongoDBDatabaseMilestoneCS499UniqueChambers.pdf)
 
 This artifact demonstrated my skills and abilities to display how to use  CRUD (Create, Read, Update, Delete) in MongoDB Compass. It will display how a record was created in the database "AAC", in the "animal" collection. The record was for a male dog name "Ace" that was black and white. The record was querried and located. It was updated to change his birthday, the the record was deleted. 
+
+
+## My GitHub Pages Website
+
+Visit my website: [uniquecham.github.io](https://uniquecham.github.io)
+
 
 ---
 
