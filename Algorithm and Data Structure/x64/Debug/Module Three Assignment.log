@@ -1,0 +1,34 @@
+﻿Pyramid.obj : error LNK2019: unresolved external symbol __imp_glewInit referenced in function main
+Pyramid.obj : error LNK2019: unresolved external symbol glfwInit referenced in function main
+Pyramid.obj : error LNK2019: unresolved external symbol glfwTerminate referenced in function main
+Pyramid.obj : error LNK2019: unresolved external symbol glfwWindowHint referenced in function main
+Pyramid.obj : error LNK2019: unresolved external symbol glfwCreateWindow referenced in function main
+Pyramid.obj : error LNK2019: unresolved external symbol glfwWindowShouldClose referenced in function main
+Pyramid.obj : error LNK2019: unresolved external symbol glfwSetFramebufferSizeCallback referenced in function main
+Pyramid.obj : error LNK2019: unresolved external symbol glfwPollEvents referenced in function main
+Pyramid.obj : error LNK2019: unresolved external symbol glfwMakeContextCurrent referenced in function main
+Pyramid.obj : error LNK2019: unresolved external symbol glfwSwapBuffers referenced in function main
+Pyramid.obj : error LNK2019: unresolved external symbol __imp___glewBindBuffer referenced in function main
+Pyramid.obj : error LNK2019: unresolved external symbol __imp___glewBufferData referenced in function main
+Pyramid.obj : error LNK2019: unresolved external symbol __imp___glewDeleteBuffers referenced in function main
+Pyramid.obj : error LNK2019: unresolved external symbol __imp___glewGenBuffers referenced in function main
+Pyramid.obj : error LNK2019: unresolved external symbol __imp___glewAttachShader referenced in function main
+Pyramid.obj : error LNK2019: unresolved external symbol __imp___glewCompileShader referenced in function main
+Pyramid.obj : error LNK2019: unresolved external symbol __imp___glewCreateProgram referenced in function main
+Pyramid.obj : error LNK2019: unresolved external symbol __imp___glewCreateShader referenced in function main
+Pyramid.obj : error LNK2019: unresolved external symbol __imp___glewDeleteProgram referenced in function main
+Pyramid.obj : error LNK2019: unresolved external symbol __imp___glewDeleteShader referenced in function main
+Pyramid.obj : error LNK2019: unresolved external symbol __imp___glewEnableVertexAttribArray referenced in function main
+Pyramid.obj : error LNK2019: unresolved external symbol __imp___glewGetUniformLocation referenced in function main
+Pyramid.obj : error LNK2019: unresolved external symbol __imp___glewLinkProgram referenced in function main
+Pyramid.obj : error LNK2019: unresolved external symbol __imp___glewShaderSource referenced in function main
+Pyramid.obj : error LNK2019: unresolved external symbol __imp___glewUniformMatrix4fv referenced in function main
+Pyramid.obj : error LNK2019: unresolved external symbol __imp___glewUseProgram referenced in function main
+Pyramid.obj : error LNK2019: unresolved external symbol __imp___glewVertexAttribPointer referenced in function main
+Pyramid.obj : error LNK2019: unresolved external symbol __imp___glewBindVertexArray referenced in function main
+Pyramid.obj : error LNK2019: unresolved external symbol __imp___glewDeleteVertexArrays referenced in function main
+Pyramid.obj : error LNK2019: unresolved external symbol __imp___glewGenVertexArrays referenced in function main
+Pyramid.obj : error LNK2019: unresolved external symbol __imp_glewExperimental referenced in function main
+C:\OpenGL\GLFW\lib-vc2019\glfw3.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\OpenGL\GLEW\lib\Release\Win32\glew32.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\Users\kpere\OneDrive\Desktop\College Stuffs\CS 330\Module Three Assignment\x64\Debug\Module Three Assignment.exe : fatal error LNK1120: 31 unresolved externals
