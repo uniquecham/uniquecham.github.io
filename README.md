@@ -68,6 +68,7 @@ Artifact One was an enhancement on a basic brick game created in CS-330, where I
 
 [Algorithms and Data Structure Artifact](Artifact2CS499AlgorithmsandDataStructure.pdf)
 
+
 Artifact 2_CS 499 4-2 Milestone Three_ Enhancement Two_ Algorithms and Data Structure
 This is a demostration how I enhanced the origial artifact which was a solid red 3D stationary pyrmid and made it rotate and show different colors on each side using OpenGl and C++. 
 
